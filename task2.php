@@ -18,7 +18,7 @@
 		<div>
 		<p><h2>File test.html</h2> </p>
 		<p>
-		1) Html is wirtten in capital letter .It should be always small letter.In HTML5 Tag start from html</p> 
+		1) Html is wirtten in capital letter .It should be always small letter.</p> 
 		<p>2) on line number 4 script type is missing and also script tag is in capital letter.It should be </p>
 		<p> <?php echo htmlentities('<script type="text/javascript" charset="utf-8"	src="http://code.jquery.com/jquery-1.7.2.js"></script>');?></p>
 		<p>3) on line number 5 script type and charset are missing. Also its not a good idea to do inline jquery.It should be we have to create js file and call in the page.</p>
