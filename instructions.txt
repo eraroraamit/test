@@ -1,0 +1,11 @@
+1) Download the Tortorise Git client (http://code.google.com/p/tortoisegit/)
+2) Run the exe file on your system.
+3) Follow the Instruction for installation.
+4) Then Download the Full installer for official Git for Windows (http://code.google.com/p/msysgit/downloads/detail?name=Git-1.7.11-preview20120704.exe&can=2&q=)
+5) Run and follow the instruction to install.
+6) Create an empty folder on your system.
+7) Right click on the empty folder and create Git Repositry create.
+8) Now go to the repository settings.
+ Here you click 'Add New' and paste the github 'Your Clone URL' into the url field.Now we're ready to pull for the first time.Select 'Pull' from the TortoiseGit menu. 
+
+
