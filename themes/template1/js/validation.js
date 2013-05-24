@@ -12,12 +12,7 @@
 						$('#msg').show().html("Numeric Value Please").css('color','red');	
 						return false;
 					}
-					if(rangeend < rangestart){
-						$('#msg').show().html("Start Range is always lesser than End Range").css('color','red');	
-							return false;
 						
-					}
-	
 				}
 
 
